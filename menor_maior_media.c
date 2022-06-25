@@ -1,5 +1,5 @@
 /*
-(Questão 1 - 2,5 pontos) Faça um programa em C que leia 4 valores inteiros e apresente o maior deles, o menor deles e a média deles. Explique na forma de comentários, e com suas palavras, o que é o processo de compilação de um código fonte de um programa de computador e como você realizou a compilação e teste do seu código.
+Faça um programa em C que leia 4 valores inteiros e apresente o maior deles, o menor deles e a média deles. 
 */
 
 #include <stdio.h>
@@ -61,12 +61,5 @@ int main(void){
     media = (menor + maior)/2;
     printf("\nA media entre os valores e: %d", media);
     
-/*
-O processo de compilação de um código fonte de um programa de computador é traduzir um programa escrito numa
-linguagem de alto nível (programa-fonte) num programa escrito numa linguagem de máquina (programa-objeto).
-Para compilar este programa em C no Windows, instalei um compilador, o GCC, através do MinGW e adicionei ao PATH
-nas variáveis de ambiente do sistema. Após a instalação, rodei o comando "clang -lm [nome do arquivo].c -o [nome do arquivo].exe"
-e utilizei a extensão Code Runner do VSCode.
-*/
     return 0;
 }
