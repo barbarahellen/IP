@@ -1,5 +1,5 @@
 /*
-3) (1 ponto) Faça um programa em C que calcule e armazene em um array 
+3) Faça um programa em C que calcule e armazene em um array 
 bidimensional os valores das tabuadas de 1 a 10. Depois, solicite do usuário
 um valor inteiro entre 1 e 10 (repita a solicitação enquanto o usuário não
 inserir corretamente) e exiba a tabuada do número correspondente, a partir
