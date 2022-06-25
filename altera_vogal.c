@@ -1,8 +1,8 @@
 /*
-4) Faça um programa em C que solicite ao usuário uma palavra 
+ Faça um programa em C que solicite ao usuário uma palavra 
 (string) e depois altere a palavra para que todas as vogais maiúsculas sejam
 substituídas por vogais minúsculas e vice-versa. Exiba a string resultante e
-quantas vogais foram alteradas. Explique nos comentários todas as etapas;
+quantas vogais foram alteradas.
 */
 
 #include <stdio.h>
