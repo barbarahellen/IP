@@ -14,7 +14,7 @@ Apresente, depois de lidas as informações, a quantidade de lâmpadas com a pot
 
 Descreva (em alto nível) o que acontece durante a execução do programa, relacionando os eventos que o programa realiza aos componentes de um computador (memória, processador, barramento etc.) que os dão suporte.
 
-*Bônus (+ 1 ponto): A quantidade de lâmpadas deve ser apresentada como um valor inteiro. Utilize a função apropriada da biblioteca math.h para realizar o arredondamento dos valores quando necessário.
+* A quantidade de lâmpadas deve ser apresentada como um valor inteiro. Utilize a função apropriada da biblioteca math.h para realizar o arredondamento dos valores quando necessário.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -67,11 +67,6 @@ int main(void){
 
     }
 
-    /*
-    Durante a execução de um programa, ocorre a busca da instrução na memória,
-    a decodificação da instrução, a busca dos operandos da instrução e a execução
-    da instrução. 
-    */
 
     return 0;
 }
