@@ -11,11 +11,10 @@
 +--------------+--------------------------------+
 
 Apresente, depois de lidas as informações, a quantidade de lâmpadas com a potência informada necessárias para se iluminar a sala considerada (de acordo com o volume da sala calculado). Caso o usuário digite alguma informação inválida, uma mensagem de erro deve ser exibida.
-
-Descreva (em alto nível) o que acontece durante a execução do programa, relacionando os eventos que o programa realiza aos componentes de um computador (memória, processador, barramento etc.) que os dão suporte.
-
 * A quantidade de lâmpadas deve ser apresentada como um valor inteiro. Utilize a função apropriada da biblioteca math.h para realizar o arredondamento dos valores quando necessário.
+
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
