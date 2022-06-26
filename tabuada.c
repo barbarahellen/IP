@@ -1,5 +1,5 @@
 /*
-4) Escreva um programa em C que pergunta um número inteiro ao usuário e exibe 
+ Escreva um programa em C que pergunta um número inteiro ao usuário e exibe 
 na tela sua tabuada completa (de 1 até 10).
 */
 
